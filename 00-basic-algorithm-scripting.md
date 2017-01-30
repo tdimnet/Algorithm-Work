@@ -16,3 +16,8 @@ Your result must be a string.
 Return the factorial of the provided integer. If the integer is represented with the letter n, a factorial is the product of all positive integers less than or equal to n.Factorials are often represented with the shorthand notation n!
 
 For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
+
+
+### Check for Palindromes
+Return true if the given string is a palindrome. Otherwise, return false.
+A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
