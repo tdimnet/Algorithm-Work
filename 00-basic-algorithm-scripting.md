@@ -21,3 +21,13 @@ For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
 ### Check for Palindromes
 Return true if the given string is a palindrome. Otherwise, return false.
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
+
+
+### Find the Longest Word in a String
+Return the length of the longest word in the provided sentence.
+Your response should be a number.
+
+
+### Title Case a Sentence
+Return the provided string with the first letter of each word capitalized. Make sure the rest of the word is in lower case.
+For the purpose of this exercise, you should also capitalize connecting words like "the" and "of".
