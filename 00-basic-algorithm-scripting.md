@@ -36,3 +36,8 @@ For the purpose of this exercise, you should also capitalize connecting words li
 ### Return Largest Numbers in Arrays
 Return an array consisting of the largest number from each provided sub-array. For simplicity, the provided array will contain exactly 4 sub-arrays.
 Remember, you can iterate through an array with a simple for loop, and access each member with array syntax arr[i].
+
+
+### Confirm the Ending
+Check if a string (first argument, str) ends with the given target string (second argument, target).
+This challenge can be solved with the .endsWith() method, which was introduced in ES2015. But for the purpose of this challenge, we would like you to use one of the JavaScript substring methods instead.
