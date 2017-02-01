@@ -31,3 +31,8 @@ Your response should be a number.
 ### Title Case a Sentence
 Return the provided string with the first letter of each word capitalized. Make sure the rest of the word is in lower case.
 For the purpose of this exercise, you should also capitalize connecting words like "the" and "of".
+
+
+### Return Largest Numbers in Arrays
+Return an array consisting of the largest number from each provided sub-array. For simplicity, the provided array will contain exactly 4 sub-arrays.
+Remember, you can iterate through an array with a simple for loop, and access each member with array syntax arr[i].
