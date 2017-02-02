@@ -45,3 +45,9 @@ This challenge can be solved with the .endsWith() method, which was introduced i
 
 ### Repeat a string repeat a string
 Repeat a given string (first argument) num times (second argument). Return an empty string if num is not a positive number.
+
+
+### Truncate a string
+Truncate a string (first argument) if it is longer than the given maximum string length (second argument). Return the truncated string with a ... ending.
+Note that inserting the three dots to the end will add to the string length.
+However, if the given maximum string length num is less than or equal to 3, then the addition of the three dots does not add to the string length in determining the truncated string.
