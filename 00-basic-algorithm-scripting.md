@@ -55,3 +55,8 @@ However, if the given maximum string length num is less than or equal to 3, then
 
 ### Chunky Monkey
 Write a function that splits an array (first argument) into groups the length of size (second argument) and returns them as a two-dimensional array.
+
+
+### Slasher Flick
+Return the remaining elements of an array after chopping off n elements from the head.
+The head means the beginning of the array, or the zeroth index.
