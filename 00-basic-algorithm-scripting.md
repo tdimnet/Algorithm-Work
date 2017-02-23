@@ -72,3 +72,7 @@ Lastly, ["Alien", "line"], should return true because all of the letters in "lin
 ### Falsy Bouncer
 Remove all falsy values from an array.
 Falsy values in JavaScript are false, null, 0, "", undefined, and NaN.
+
+
+### Seek and Destroy
+You will be provided with an initial array (the first argument in the destroyer function), followed by one or more arguments. Remove all elements from the initial array that are of the same value as these arguments.
